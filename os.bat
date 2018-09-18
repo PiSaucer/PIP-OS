@@ -416,7 +416,7 @@ goto menu
 
 :easteregg
 cls
-echo this was made my PiSaucer, or Alan for short
+echo this was made my PiSaucer.
 echo PS don't tell ANYONE!!!
 pause
 goto menu
