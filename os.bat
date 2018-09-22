@@ -1,3 +1,36 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCyDJGyX8VAjFDpYTQqxAE+1BaAR7ebv/NaokXEUV+0xNobY1dQ=
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSDk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSDk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQIGeVUFASanCEra
+::ZQ05rAF9IBncCkqN+0xwdVtiHUrTcUmfMpR8
+::ZQ05rAF9IAHYFVzEqQIAIQsZYzfCKjz0V/tMprCb
+::eg0/rx1wNQPfEVWB+kM9LVsJDDSLLCaVNfUKv6aqobrJ+i0=
+::fBEirQZwNQPfEVWB+kM9LVsJDDSLLCaVNfUKv6aqobrJ+i0=
+::cRolqwZ3JBvQF1fEqQJQ
+::dhA7uBVwLU+EWGmNx0MlKx5GLA==
+::YQ03rBFzNR3SWATElA==
+::dhAmsQZ3MwfNWATElA==
+::ZQ0/vhVqMQ3MEVWAtB9wSA==
+::Zg8zqx1/OA3MEVWAtB9wSA==
+::dhA7pRFwIByZRRnk
+::Zh4grVQjdCyDJGyX8VAjFDpYTQqxAE+1BaAR7ebv/NaokXEyZ6w6YIq7
+::YB416Ek+ZG8=
+::
+::
+::978f952a14a936cc963da21a135fa983
  @echo off
 color 02
 title Pip-OS v7.1.0.8
@@ -223,6 +256,1275 @@ ping -n 2 localhost >nul
 
 
 cls
+echo *
+ping -n 1 localhost >nul
+cls
+echo **
+ping -n 1 localhost >nul
+cls
+echo ***
+ping -n 1 localhost >nul
+cls
+echo ****
+ping -n 1 localhost >nul
+cls
+echo *****
+ping -n 1 localhost >nul
+cls
+echo ******
+ping -n 1 localhost >nul
+cls
+echo *******
+ping -n 1 localhost >nul
+cls
+echo ********
+ping -n 1 localhost >nul
+cls
+echo *********
+ping -n 1 localhost >nul
+cls
+echo **********
+ping -n 1 localhost >nul
+cls
+echo ***********
+ping -n 1 localhost >nul
+cls
+echo ************
+ping -n 1 localhost >nul
+cls
+echo *************
+ping -n 1 localhost >nul
+cls
+echo **************
+ping -n 1 localhost >nul
+cls
+echo ***************
+ping -n 1 localhost >nul
+cls
+echo *************** P
+ping -n 1 localhost >nul
+cls
+echo *************** PI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-O
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R)
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 **
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ****
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *****
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ******
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *******
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 **********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 **************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo C
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo CO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COP
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPY
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYR
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIG
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGH
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 20
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 207
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 RO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROB
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBC
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo L
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOA
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOAD
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo E
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EX
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC 
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC V
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VER
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERS
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSIO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 4
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.1
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 6
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64 
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RA
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM S
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SY
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYS
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYST
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 3
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 389
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 3891
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 B
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BY
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYT
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES F
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FR
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FRE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo N
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO H
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOL
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOT
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTA
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAP
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE
+ping -n 1 localhost >nul
+cls 
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE F
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOU
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUN
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+ping -n 1 localhost >nul
+cls
+
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo L
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOA
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD RO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM
+ping -n 1 localhost >nul
+cls 
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1)
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1):
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): D
+ping -n 1 localhost >nul
+cls 
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEIT
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITR
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX
+ping -n 1 localhost >nul 
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 3
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 30
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ***
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ****
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *****
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ******
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *******
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ***********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ***************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ****************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ******************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *******************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ********************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **********************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ****************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ******************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *******************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *********************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **********************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ****************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *******************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ********************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *********************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ***********************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ************************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *************************************************
+ping -n 1 localhost >nul
+cls
 echo *************** PIP-OS(R) V7.1.0.8 ***************
 echo COPYRIGHT 2075 ROBCO(R)
 echo LOADER V1.1
@@ -232,7 +1534,8 @@ echo 38911 BYTES FREE
 echo NO HOLOTAPE FOUND
 echo LOAD ROM(1): DEITRIX 303
 echo **************************************************
-ping -n 4 localhost >nul
+
+
 
 cls
 ping -n 4 localhost >nul
@@ -424,6 +1727,1276 @@ goto menu
 :info
 
 cls
+cls
+echo *
+ping -n 1 localhost >nul
+cls
+echo **
+ping -n 1 localhost >nul
+cls
+echo ***
+ping -n 1 localhost >nul
+cls
+echo ****
+ping -n 1 localhost >nul
+cls
+echo *****
+ping -n 1 localhost >nul
+cls
+echo ******
+ping -n 1 localhost >nul
+cls
+echo *******
+ping -n 1 localhost >nul
+cls
+echo ********
+ping -n 1 localhost >nul
+cls
+echo *********
+ping -n 1 localhost >nul
+cls
+echo **********
+ping -n 1 localhost >nul
+cls
+echo ***********
+ping -n 1 localhost >nul
+cls
+echo ************
+ping -n 1 localhost >nul
+cls
+echo *************
+ping -n 1 localhost >nul
+cls
+echo **************
+ping -n 1 localhost >nul
+cls
+echo ***************
+ping -n 1 localhost >nul
+cls
+echo *************** P
+ping -n 1 localhost >nul
+cls
+echo *************** PI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-O
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R)
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 **
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ****
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *****
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ******
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *******
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 **********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 *************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 **************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo C
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo CO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COP
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPY
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYR
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIG
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGH
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 20
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 207
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 RO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROB
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBC
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo L
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOA
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOAD
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo E
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EX
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC 
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC V
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VER
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERS
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSIO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 4
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.1
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 6
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64 
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RA
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM S
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SY
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYS
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYST
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 3
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 389
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 3891
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 B
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BY
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYT
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES F
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FR
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FRE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo N
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO H
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOL
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOT
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTA
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAP
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE
+ping -n 1 localhost >nul
+cls 
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE F
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOU
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUN
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+ping -n 1 localhost >nul
+cls
+
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo L
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOA
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD R
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD RO
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM
+ping -n 1 localhost >nul
+cls 
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1)
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1):
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): D
+ping -n 1 localhost >nul
+cls 
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DE
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEIT
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITR
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRI
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX
+ping -n 1 localhost >nul 
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 3
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 30
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+ping -n 1 localhost >nul
+cls
+
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ***
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ****
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *****
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ******
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *******
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ***********
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ***************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ****************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ******************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *******************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ********************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **********************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ****************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ******************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *******************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *********************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **********************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo **************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ****************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *******************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ********************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *********************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ***********************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo ************************************************
+ping -n 1 localhost >nul
+cls
+echo *************** PIP-OS(R) V7.1.0.8 ***************
+echo COPYRIGHT 2075 ROBCO(R)
+echo LOADER V1.1
+echo EXEC VERSION 41.10
+echo 64K RAM SYSTEM
+echo 38911 BYTES FREE
+echo NO HOLOTAPE FOUND
+echo LOAD ROM(1): DEITRIX 303
+echo *************************************************
+ping -n 1 localhost >nul
+cls
 echo *************** PIP-OS(R) V7.1.0.8 ***************
 echo COPYRIGHT 2075 ROBCO(R)
 echo LOADER V1.1
@@ -433,6 +3006,8 @@ echo 38911 BYTES FREE
 echo NO HOLOTAPE FOUND
 echo LOAD ROM(1): DEITRIX 303
 echo **************************************************
+ping -n 1 localhost >nul
+
 echo Wanna check for update?
 
 echo  1. to check for update 
@@ -447,7 +3022,7 @@ if %check% == 2 goto menu
 
 :songs
 cls
-start chrome.exe https://raw.githubusercontent.com/PiSaucer/PIP-OS-R-V7.1.0.8/music/Fallout%204%20Official%20Main%20Theme%20by%20Inon%20Zur.mp3
+start chrome.exe https://www.youtube.com/playlist?list=PL_dZzj4H0GQKP--78TbXjzrLvctheSFQw
 pause
 goto menu
 
