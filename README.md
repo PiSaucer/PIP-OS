@@ -1,4 +1,5 @@
 # PIP-OS-R-V7.1.0.8
+![python_version](https://img.shields.io/badge/Python-3.0-green.svg)
 
 The Pip-OS v7.1.0.8 is an Operating System Developed by RobCo Industries for the Pip-Boy 3000 Mark IV.
 
