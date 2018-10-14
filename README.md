@@ -18,7 +18,12 @@ What things you need to install the software and how to install them
 ```
 Any Verison of Windows
 
-How to Know to Use .exe(Executable File) and/or .bat (Batch File)
+Know to Use .exe(Executable File) and/or .bat (Batch File)
+
+-----------------------------------------------------------------------
+Python 3
+
+Know how to use python
 ```
 
 ### Installing
@@ -29,7 +34,7 @@ Step 1: Go to [Releases](https://github.com/PiSaucer/PIP-OS-R-V7.1.0.8/releases)
 
 Step 2: Download the Latest Verison
 
-Step 3: Run the .exe or .bat File
+Step 3: Run the .exe or .bat File or .py File
 
 Step 4: You're done, Now please help development. 
 
@@ -108,6 +113,7 @@ type y will close the software
 ## Built With
 
 * .bat to .exe Converter
+* python IDLE 3.7.0
 
 
 ## Contributing
@@ -129,6 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * The Pip-OS v7.1.0.8 appears only in Fallout 4.
 * The inscription «64K RAM SYSTEM 38911 BYTES FREE» is a reference to the home computer Commodore 64, produced from 1982 to 1994.
+* Working on a better python with buttons, etc.
 
 
 ![alt text](https://raw.githubusercontent.com/PiSaucer/PIP-OS-R-V7.1.0.8/master/example.png)
