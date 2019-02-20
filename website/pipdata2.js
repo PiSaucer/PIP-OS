@@ -1,0 +1,327 @@
+var lyrics = [{
+    delay: "2.00",
+    text: "                 ........... ...                    ...........",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "                 ............... .........  ....... ........... ....................",
+    nonewline: 0,
+    clear: 0,
+}, {
+  delay: "2.00",
+  text: "                .........  ...   ...   ...   ................. ...   .... ........",
+  nonewline: 0,
+  clear: 0,
+}, {
+    delay: "2.00",
+    text: "              ....       ..................      ............ .........   ....",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "                              ....                                      .....",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "10.00",
+    text: "",
+    nonewline: 1,
+    clear: 1,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhyyyyyyhhyhhhhhyydNddhdmNhhdhhdNhdddhhhddhhNhhhyhhyhNyhyhhyhhhhyyyyyyyyydMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdNyNhhhhhhhdmdhhhyyyyyyyyyhyhhhhymdddddmmhhddmmNdddddddddMhNddhhyyyhmMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhddhhhhhhhhhhhhhhhhdMmNdNhdhhhhdhmdddhhhhhhhhhhhhhhhhhNdhdhNmdddmmmdNNmmmmMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddddmmdmddhdmddhhhhhmNdddyhdhhhhhhhhhhhhhmmmmdmhhhhhhddNNNNMNNNNNMNNNMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhddhdhddhhhddhhhhhhhmmhdhmddddddmmhdhdddddddddmmhhhhhhhdmmmmmmmmmdmNNMNNMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddhhhhhhdhddhhhhhhhdmddhdmdhhddhmddmdmmddddddhddhhhhyhhhhddmmmmmmmmNNNNNMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddhhhhhhmdhhhhhhhhhhdddhdhhdhmddddmmdhhdddhhmddddmhhhhddddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhhhhhhhhhhhhhhhhhhhdNmNhNhdhhhhhdmddhhyhhdhhhhhhhhhhhhNmdhdhNdhhhhdmMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdddddhhddymdhyyhhhhdNddyhhyhhhhhhhhyhyhydmmmhmddhyyyhhNhhhhhhhhhyyhyyhhhyhdMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmddddNhhhhddmmhddddhhdhNhNydyyyyhhmdhyhhhhhhhyyhyyyyyyyNdMhNddhhhyhdNMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhhyyyhhyyhhyyhhyyhNdhhhMmdddddhhmmdddNmdddddddddhhdyhhyyhddNMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhyhyhhhyhhhhhhhhhdmdNhNhdhhhyhhmhdhyhhhhhhhyhhhyyyhhNmhhhNddddddmmhmdmMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhddhhydmNdddhhhhhhyyhhhhhhhhhmdmdmhdhhhhhhmmhdhhhhhhhhhhhhddhdhmdhhhmMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmdddddmmNdddddmhhhhhhddNhdhhhdhhhhhhhhhhhhdmmdmhmddhhhhhdNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdmdddhhyddddhddhhhhhmmmNmmdddddddmdddmmdddddmmdddhhhhhdhdmmmmmmmmmdddmdmdmmMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdmddhhhhhhhhddhhhhhhmddhddmhhhhdhNmmmmddmdddmNmdddddddNddddmdddhhhhhdmdmmmmMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmNdmddhhhhhhmmhhhhhhhhhhhhdhhhhhhNmddddmdhhddddNddddhhdddNdNmdhhhhhhNMMMNMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhhhhyhhhhhhhhhhhhdNmNhNhdhhhymdNdhyhhhhhhhhyhhhhhhhhNmdhhNmddhdhdddNddmNMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmmddddddddhmmhhhhhhydmhhhhyhhyhhhhhhhyhhhdmmNdNhhyyyyhyNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhhhyyyyyhhhhhhhyydNdhhhNdhddddNdhdymhhhyyyhhmmhmhyyyyyhhhhhhhhyhhmNmmmMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhyyhyhNddhhhhhhhhyyhyyhhhhhNdyyhmmddddddddmhhhhmyyyhyhhhNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhhhhhhhhhhhhhhhhhdNmmdNhdhhhhddNdhyyyhyhhyhhhhhhyhhhNdddmmNmdddddmMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdmddddddddmdddhhhhhdNhdhhhhhhhhhhhhhhhhhmNmmdmddhhhhhdNhdhhhhhhhhhhhhhhhhhdMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhddhhhhhhhhhhhhhhhhdMmNdNhdhhhhdhmdddhhhhhhhhhhhhhhhhhNdhdhNmdddmmmdNNmmmmMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddddmmdmddhdmddhhhhhmNdddyhdhhhhhhhhhhhhhmmmmdmhhhhhhddNNNNMNNNNNMNNNMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhddhdhddhhhddhhhhhhhmmhdhmddddddmmhdhdddddddddmmhhhhhhhdmmmmmmmmmdmNNMNNMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddhhhhhhdhddhhhhhhhdmddhdmdhhddhmddmdmmddddddhddhhhhyhhhhddmmmmmmmmNNNNNMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddhhhhhhmdhhhhhhhhhhdddhdhhdhmddddmmdhhdddhhmddddmhhhhddddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhhhhhhhhhhhhhhhhhhhdNmNhNhdhhhhhdmddhhyhhdhhhhhhhhhhhhNmdhdhNdhhhhdmMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdddddhhddymdhyyhhhhdNddyhhyhhhhhhhhyhyhydmmmhmddhyyyhhNhhhhhhhhhyyhyyhhhyhdMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmddddNhhhhddmmhddddhhdhNhNydyyyyhhmdhyhhhhhhhyyhyyyyyyyNdMhNddhhhyhdNMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhhyyyhhyyhhyyhhyyhNdhhhMmdddddhhmmdddNmdddddddddhhdyhhyyhddNMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhyhyhhhyhhhhhhhhhdmdNhNhdhhhyhhmhdhyhhhhhhhyhhhyyyhhNmhhhNddddddmmhmdmMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhddhhydmNdddhhhhhhyyhhhhhhhhhmdmdmhdhhhhhhmmhdhhhhhhhhhhhhddhdhmdhhhmMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmdddddmmNdddddmhhhhhhddNhdhhhdhhhhhhhhhhhhdmmdmhmddhhhhhdNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdmdddhhyddddhddhhhhhmmmNmmdddddddmdddmmdddddmmdddhhhhhdhdmmmmmmmmmdddmdmdmmMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdmddhhhhhhhhddhhhhhhmddhddmhhhhdhNmmmmddmdddmNmdddddddNddddmdddhhhhhdmdmmmmMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmNdmddhhhhhhmmhhhhhhhhhhhhdhhhhhhNmddddmdhhddddNddddhhdddNdNmdhhhhhhNMMMNMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhhhhyhhhhhhhhhhhhdNmNhNhdhhhymdNdhyhhhhhhhhyhhhhhhhhNmdhhNmddhdhdddNddmNMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmmddddddddhmmhhhhhhydmhhhhyhhyhhhhhhhyhhhdmmNdNhhyyyyhyNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "MMMMMMMMMMMMhdhhhyyyyyhhhhhhhyydNdhhhNdhddddNdhdymhhhyyyhhmmhmhyyyyyhhhhhhhhyhhmNmmmMMMMMMMMMMMMMMMM",
+    text: "text",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhyyhyhNddhhhhhhhhyyhyyhhhhhNdyyhmmddddddddmhhhhmyyyhyhhhNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhhhhhhhhhhhhhhhhhdNmmdNhdhhhhddNdhyyyhyhhyhhhhhhyhhhNdddmmNmdddddmMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdmddddddddmdddhhhhhdNhdhhhhhhhhhhhhhhhhhmNmmdmddhhhhhdNhdhhhhhhhhhhhhhhhhhdMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMmmdddmddddmmmmdmddddmdmmhmhdhhhdhhmddhhhddhdddhhhhhhhhdmmmhmdddhhhhdmNNmmmNMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdmdhhdhhhhdhdmddhhhhmdhmdNmdddddddNmmmdmmmddmmdhdddhmhhmdmdmdmmmmmmmNMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhhhhhhdddhhhhhhhhdNmNhmhdhhhhhhmddhhhhhhdhhhhhhhhhhhNddhdmmddddhmddmmmMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddhhhhhhNhhhhhhhhhhyhhhyyhhhhNmNhmhddhhyyhmmhdhhhhhyyhhhhyhhhddNNdhhmMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddhdddhyNhdddmmhhhhyhhhNhdhhyyyyyyyyyyyyyhhdNdNdmhhhyyyddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMydyyyyyyyyyyyyhhyyhdNddhdhMdhddddNmddddddddhdmhhyyyyyhNhdhyhhhhyyyyyyyhhhyhMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdNhmhhhhhhdhmmdhhhhhhyyyhhhhhyyhyNNmdhdNdddhddmNhddmmddddNhNddhyyyyhmMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhdhyyyyyyhhyhhhhhyydNddhdmNhhdhhdNhdddhhhddhhNhhhyhhyhNyhyhhyhhhhyyyyyyyyydMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMdNyNhhhhhhhdmdhhhyyyyyyyyyhyhhhhymdddddmmhhddmmNdddddddddMhNddhhyyyhmMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhddhhhhhhhhhhhhhhhhdMmNdNhdhhhhdhmdddhhhhhhhhhhhhhhhhhNdhdhNmdddmmmdNNmmmmMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddddmmdmddhdmddhhhhhmNdddyhdhhhhhhhhhhhhhmmmmdmhhhhhhddNNNNMNNNNNMNNNMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhddhdhddhhhddhhhhhhhmmhdhmddddddmmhdhdddddddddmmhhhhhhhdmmmmmmmmmdmNNMNNMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddhhhhhhdhddhhhhhhhdmddhdmdhhddhmddmdmmddddddhddhhhhyhhhhddmmmmmmmmNNNNNMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMddhhhhhhmdhhhhhhhhhhdddhdhhdhmddddmmdhhdddhhmddddmhhhhddddNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "5.00",
+    text: "MMMMMMMMMMMMhhhhhhhhhhhhhhhhhhhdNmNhNhdhhhhhdmddhhyhhdhhhhhhhhhhhhNmdhdhNdhhhhdmMMMMMMMMMMMMMMMMMMMM",
+    nonewline: 0,
+    clear: 0,
+
+}];

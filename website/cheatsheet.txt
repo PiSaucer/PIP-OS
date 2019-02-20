@@ -1,0 +1,19 @@
+
+}, {
+    delay: "2.00",
+    text: "text",
+    nonewline: 0,
+    clear: 0,
+}
+
+
+
+
+for clearing
+
+}, {
+    delay: "2.00",
+    text: "",
+    nonewline: 0,
+    clear: 1,
+}, {
