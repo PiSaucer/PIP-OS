@@ -3,16 +3,35 @@
 <head>
   <title>PIP-OS</title>
   <link rel="stylesheet" type="text/css" href="style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="favicon.png"/>
   <script type="text/javascript" src="pipdata2.js"></script>
   <script type="text/javascript" src="pip.js"></script>
   <script language="text/javascript">
 document.onmousedown=disableclick;status="Right Click Disabled";function disableclick(event){ if(event.button==2) { alert(status); return false; }}
+document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
+<script language="text/javascript">
+  function start_scroll_down() {
+     scroll = setInterval(function(){ window.scrollBy(0, 1000); console.log('start');}, 1500);
+  }
+
+  function stop_scroll_down() {
+     clearInterval(scroll);
+     console.log('stop');
+  }
+
+  start_scroll_down();
 </script>
 </head>
 
-<body>
+<body onLoad="start_scroll_down()">
+  <pre>
+    <code>
   <div id="lyrics">
     <div id="lyricstext"></div>
   </div>
+</code>
+</pre>
 </body>
 </html>

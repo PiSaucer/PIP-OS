@@ -229,11 +229,6 @@ var lyrics = [{
     nonewline: 0,
     clear: 0,
 }, {
-    delay: "MMMMMMMMMMMMhdhhhyyyyyhhhhhhhyydNdhhhNdhddddNdhdymhhhyyyhhmmhmhyyyyyhhhhhhhhyhhmNmmmMMMMMMMMMMMMMMMM",
-    text: "text",
-    nonewline: 0,
-    clear: 0,
-}, {
     delay: "5.00",
     text: "MMMMMMMMMMMMhdhyyhyhNddhhhhhhhhyyhyyhhhhhNdyyhmmddddddddmhhhhmyyyhyhhhNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
     nonewline: 0,
@@ -323,5 +318,78 @@ var lyrics = [{
     text: "MMMMMMMMMMMMhhhhhhhhhhhhhhhhhhhdNmNhNhdhhhhhdmddhhyhhdhhhhhhhhhhhhNmdhdhNdhhhhdmMMMMMMMMMMMMMMMMMMMM",
     nonewline: 0,
     clear: 0,
-
+}, {
+    delay: "5.00",
+    text: "",
+    nonewline: 0,
+    clear: 1,
+}, {
+    delay: "2.00",
+    text: "*************** PIP-OS(R) V7.1.0.8 ***********",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "COPYRIGHT 2075 ROBCO(R)",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "LOADER V1.1",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "EXEC VERSION 41.10",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "64K RAM SYSTEM",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "38911 BYTES FREE",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "NO HOLOTAPE FOUND",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "LOAD ROM(1): DEITRIX 303",
+    nonewline: 0,
+    clear: 0,
+}, {
+    delay: "2.00",
+    text: "**************************************************",
+    nonewline: 0,
+    clear: 0,
 }];
+
+/*
+
+}, {
+    delay: "2.00",
+    text: "text",
+    nonewline: 0,
+    clear: 0,
+}
+
+
+
+
+for clearing
+
+}, {
+    delay: "2.00",
+    text: "",
+    nonewline: 0,
+    clear: 1,
+}, {
+
+
+*/
