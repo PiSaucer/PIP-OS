@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <title>PIP-OS</title>
+  <link rel="stylesheet" type="text/css" href="style2.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+  <script type="text/javascript" src="pipdata2.js"></script>
+  <script type="text/javascript" src="pip.js"></script>
+  <script language="text/javascript">
+document.onmousedown=disableclick;status="Right Click Disabled";function disableclick(event){ if(event.button==2) { alert(status); return false; }}
+document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
+</head>
+
+<body onLoad="">
+  <pre>
+    <code>
+  <div id="lyrics">
+    <div id="lyricstext"></div>
+  </div>
+</code>
+</pre>
+</body>
+</html>
