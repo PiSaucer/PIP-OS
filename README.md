@@ -144,3 +144,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 [example](https://pisaucer.github.io/PIP-OS/website/index.html)
+[example2](https://pisaucer.github.io/PIP-OS/website/index2.html)
+[example3](https://pisaucer.github.io/PIP-OS/website/index3.html)
+[example4](https://pisaucer.github.io/PIP-OS/website/index4.html)
