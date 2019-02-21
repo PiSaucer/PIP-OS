@@ -11,21 +11,9 @@
 document.onmousedown=disableclick;status="Right Click Disabled";function disableclick(event){ if(event.button==2) { alert(status); return false; }}
 document.addEventListener('contextmenu', event => event.preventDefault());
 </script>
-<script language="text/javascript">
-  function start_scroll_down() {
-     scroll = setInterval(function(){ window.scrollBy(0, 1000); console.log('start');}, 1500);
-  }
-
-  function stop_scroll_down() {
-     clearInterval(scroll);
-     console.log('stop');
-  }
-
-  start_scroll_down();
-</script>
 </head>
 
-<body onLoad="start_scroll_down()">
+<body onLoad="">
   <pre>
     <code>
   <div id="lyrics">
