@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <title>PIP-OS</title>
+  <link rel="stylesheet" type="text/css" href="style4.css" /
+  <link rel="stylesheet" type="text/css" href="segoeui.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+  <script type="text/javascript" src="pipdata2.js"></script>
+  <script type="text/javascript" src="pip.js"></script>
+  <script language="text/javascript">
+document.onmousedown=disableclick;status="Right Click Disabled";function disableclick(event){ if(event.button==2) { alert(status); return false; }}
+document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
+</head>
+
+<body onLoad="">
+  <div class="blue_bar"></div>
+  <img src="close.svg" alt="exit button" class="close_icon">
+  <img src="window.svg" alt="window button" class="window_icon">
+  <img src="lower.svg" alt="lower button" class="lower_icon">
+  <img src="favicon.png" alt="pip-os photo" class="app_icon">
+  <h1 class="app_name">Pip-OS v7.1.0.8</h1>
+  <pre>
+    <code>
+  <div id="lyrics">
+    <div id="lyricstext"></div>
+  </div>
+</code>
+</pre>
+</body>
+</html>
