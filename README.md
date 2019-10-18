@@ -10,6 +10,7 @@ The Pip-OS v7.1.0.8 is an Operating System Developed by RobCo Industries for the
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your pc for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+For TI-84 Plus CE directions go to this [link](https://github.com/PiSaucer/PIP-OS/blob/master/TI-84%2BCE/readme.md)
 
 ### Prerequisites
 
