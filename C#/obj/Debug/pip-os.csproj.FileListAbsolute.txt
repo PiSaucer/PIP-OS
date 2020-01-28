@@ -1,0 +1,7 @@
+F:\10th Grade\9 - Fun Stuff\PIP-OS-master\C#\bin\Debug\pip-os.exe.config
+F:\10th Grade\9 - Fun Stuff\PIP-OS-master\C#\bin\Debug\pip-os.exe
+F:\10th Grade\9 - Fun Stuff\PIP-OS-master\C#\bin\Debug\pip-os.pdb
+F:\10th Grade\9 - Fun Stuff\PIP-OS-master\C#\obj\Debug\pip-os.csprojAssemblyReference.cache
+F:\10th Grade\9 - Fun Stuff\PIP-OS-master\C#\obj\Debug\pip-os.csproj.CoreCompileInputs.cache
+F:\10th Grade\9 - Fun Stuff\PIP-OS-master\C#\obj\Debug\pip-os.exe
+F:\10th Grade\9 - Fun Stuff\PIP-OS-master\C#\obj\Debug\pip-os.pdb
